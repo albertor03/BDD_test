@@ -4,7 +4,7 @@ import requests
 import datetime
 
 url = "https://reqres.in/api/users"
-urlWithParams = "https://reqres.in/api/users"
+urlWithParams = url
 user = dict()
 resp = dict()
 userId = int()
